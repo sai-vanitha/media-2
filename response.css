@@ -1,0 +1,14 @@
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+  padding: 30px;
+  font-size: 1.5rem;
+}
+@media  screen and (width <= 700px) {
+    div{
+        padding: 10px;
+    }
+}
